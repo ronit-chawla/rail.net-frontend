@@ -1,0 +1,285 @@
+* {
+  margin: 0;
+}
+
+.landing-home {
+  width: 100%;
+  position: absolute;
+  top: 21px;
+}
+
+.div {
+  width: 100%;
+}
+
+.overlap {
+  background-image: url("../Images//rail-1.jpeg");
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 503px;
+  position: absolute;
+  width: 100%;
+}
+
+.logo {
+  height: 217px;
+  left: 646px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 220px;
+  border-radius: 20px;
+}
+
+.overlap-group {
+  height: 340px;
+  left: 24px;
+  position: absolute;
+  top: 1272px;
+  width: 1461px;
+}
+
+.text-wrapper {
+  color: #000000;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 230px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 13px;
+}
+
+.group {
+  height: 340px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1430px;
+}
+
+.overlap-2 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 423px;
+}
+
+.subhead1 {
+  color: #000000;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: left;
+  width: 723px;
+  display: flex;
+  flex-direction: row;
+}
+
+.subhead2 {
+  color: #000000;
+  font-family: "Poppins-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: left;
+  top: 40px;
+  width: 186px;
+}
+
+.location-text {
+  width: 300px;
+  height: 40px;
+  margin-left: 30px;
+  font-size: medium;
+  border-radius: 10px;
+  background-color: rgb(255, 218, 176);
+  color: rgb(109, 80, 52);
+  outline: none;
+}
+
+.img {
+  height: 247px;
+  left: 49px;
+  position: absolute;
+  top: 93px;
+  width: 205px;
+}
+
+.back-to {
+  height: 79px;
+  left: 1px;
+  position: absolute;
+  top: 192px;
+  width: 65px;
+}
+
+.next-page {
+  height: 62px;
+  left: 1396px;
+  position: absolute;
+  top: 201px;
+  width: 65px;
+}
+
+.overlap-3 {
+  height: 340px;
+  left: 24px;
+  position: absolute;
+  top: 909px;
+  width: 1461px;
+}
+
+.overlap-group-2 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.rectangle-2 {
+  background-color: #ffb56280;
+  border-radius: 10px;
+  height: 36px;
+  left: 216px;
+  position: absolute;
+  top: 8px;
+  width: 306px;
+}
+
+.text-wrapper-5 {
+  color: #000000;
+  font-family: "Poppins-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 14px;
+}
+
+.back-to-2 {
+  height: 79px;
+  left: 1px;
+  position: absolute;
+  top: 184px;
+  width: 65px;
+}
+
+.next-page-2 {
+  height: 62px;
+  left: 1396px;
+  position: absolute;
+  top: 193px;
+  width: 65px;
+}
+
+.nav {
+  height: 37px;
+  position: absolute;
+  top: 514px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav-item {
+  color: #898989;
+  font-family: "Poppins-Light", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  top: 0;
+  width: 184px;
+}
+
+.card-layout-1 {
+  height: 329px;
+  left: 24px;
+  position: absolute;
+  top: 551px;
+  width: 1461px;
+}
+
+.card-items {
+  height: 277px;
+  left: 35px;
+  position: absolute;
+  top: 71px;
+  width: 1405px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.tain-sub {
+  height: 277px;
+  top: 0;
+  width: 220px;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+
+.tain-sub-1 {
+  height: 277px;
+  top: 0;
+  width: 220px;
+  border-radius: 20px;
+}
+
+.next-page-3 {
+  height: 62px;
+  left: 1396px;
+  position: absolute;
+  top: 180px;
+  width: 65px;
+}
+
+.contactus {
+  background-color: #000000;
+  height: 644px;
+  position: absolute;
+  top: 1256px;
+  width: 100%;
+}
+
+.contactus-sub {
+  color: #ffffff;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  left: 112px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+}
+
+.bar {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(255, 255, 255, 0.7);
+  position: absolute;
+  top: 410px;
+  left: 360px;
+  width: 800px;
+  height: 60px;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 5px;
+  border-radius: 50px;
+}

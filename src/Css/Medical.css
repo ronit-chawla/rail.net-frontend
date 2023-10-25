@@ -1,0 +1,24 @@
+.main-medical {
+  left: 35px;
+  position: absolute;
+  top: 571px;
+  width: 1461px;
+  margin-bottom: 20px;
+}
+.button-medical {
+  background-color: rgb(252, 116, 102);
+  color: black;
+  font-weight: bold;
+  font-size: x-large;
+  width: 250px;
+  border: rgb(252, 116, 102);
+  border-radius: 25px;
+  height: 45px;
+  margin-left: 140px;
+}
+.three-button-div {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1461px;
+}

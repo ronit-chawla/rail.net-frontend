@@ -1,0 +1,48 @@
+.onboard-card-layout-1 {
+    height: 329px;
+    left: 24px;
+    position: absolute;
+    top: 551px;
+    width: 1461px;
+}
+.onboard-card-layout-2 {
+    height: 329px;
+    left: 24px;
+    position: absolute;
+    top: 870px;
+    width: 1461px;
+}
+.onboard-card-items {
+    height: 277px;
+    left: 35px;
+    position: absolute;
+    top: 71px;
+    width: 1405px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.onboard-card-items-2 {
+    height: 277px;
+    left: 35px;
+    position: absolute;
+    top: 71px;
+    width: 1405px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.onboard-tain-sub {
+    height: 277px;
+    top: 0;
+    width: 220px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+.onboard-tain-sub-2 {
+    height: 277px;
+    top: 0;
+    width: 220px;
+    border-radius: 20px;
+    margin-right: 55px;
+}

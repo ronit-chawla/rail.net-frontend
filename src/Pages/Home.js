@@ -59,8 +59,8 @@ const Home = () => {
                     onChange={e =>
                       setTrainID(e.target.value)}
                   />
-                  <button onClick={submitTrain}>
-                    SEARCH
+                  <button onClick={submitTrain} className='btn btn-success'>
+                    Search
                   </button>
                 </div>
                 <div className='subhead2'>
@@ -137,7 +137,7 @@ const Home = () => {
             value={ticketID}
             onChange={e => setTicketID(e.target.value)}
           />
-          <button onClick={submitTicket}>SEARCH</button>
+          <button onClick={submitTicket}className='btn btn-success'>SEARCH</button>
         </div>
       </div>
     </div>
